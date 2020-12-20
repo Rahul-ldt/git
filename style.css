@@ -1,0 +1,117 @@
+body {
+  background-color: #579505;
+  font-family: sans-serif;
+}
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.a {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+}
+.b {
+    color: white;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+.c {
+    color: white;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+.d {
+    color: white;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+.e {
+    color: white;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+.f {
+    color: white;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+.g {
+    color: white;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+.h {
+    color: white;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+
+.i {
+  font-weight: bold;
+  padding: 10px;
+  font-size: 18px;
+}
+.j {
+    color: white;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+.k {
+    color: white;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+.logo {
+  padding: 10px;
+}
+
+img {
+  height: 30px;
+}
+
+
+.l {
+    color: white;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+.m {
+    color: white;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+.n {
+    color: white;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+.o {
+    color: white;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+.p {
+    color: white;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+
+.q {
+  font-weight: bold;
+  padding: 10px 0px 0px 10px;
+}
+
+.photo {
+  padding: 10px;
+}
+
+.photo img {
+  height: 30px;
+}
+
+.r {
+  padding: 10px;
+  font-weight: bold;
+}
